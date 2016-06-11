@@ -4,7 +4,7 @@ subtitle:
 # welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 welcome_message: <a target="_blank">Life is like a box of chocolate</a>
 # description: 无名的旅人
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a>@null</a>
 
 url: "http://lishaoyou.com"
 
@@ -42,10 +42,10 @@ comment:
 # Social
 social:
     # weibo: onevcat
-    github: sheldonli
+    # github: sheldonli
     # twitter: onevcat
     # gplus: 107108267983477358170
-    mail: lishaoyouqy@126.com
+    # mail: lishaoyouqy@126.com
 
 # Google Analytics
 ga:
