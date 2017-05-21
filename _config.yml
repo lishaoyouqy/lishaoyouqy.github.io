@@ -6,13 +6,13 @@ welcome_message: <a target="_blank">Life is like a box of chocolate</a>
 # description: 无名的旅人
 creator: <a>@null</a>
 
-url: "http://lishaoyou.com"
+url: "http://chenyongran.com"
 
 permalink: /:year/:month/:title/
 
 # Format
 highlighter: plain
-markdown: redcarpet
+markdown: kramdow
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", tables]
 
